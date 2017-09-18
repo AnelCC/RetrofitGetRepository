@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="apps.cherry.retrofitexamplea.MainActivity">
+
+    <TextView
+        android:layout_width            ="wrap_content"
+        android:layout_height           ="wrap_content"
+        android:padding                 ="10dp"
+        android:text                    ="@string/txt_into_repository" />
+
+    <EditText
+        android:id                      ="@+id/a_main_et"
+        android:layout_width            ="match_parent"
+        android:layout_height           ="wrap_content"
+        android:padding                 ="10dp"
+        android:hint                    ="@string/edt_type_here"/>
+
+    <Button
+        android:id                      ="@+id/button"
+        android:layout_width            ="match_parent"
+        android:layout_height           ="wrap_content"
+        android:padding                 ="10dp"
+        android:onClick                 ="getInfo"
+        android:text                    ="@string/btn_consulting"/>
+
+    <!--<android.support.v7.widget.RecyclerView
+        android:id                      ="@+id/a_main_recycler"
+        android:layout_width            ="match_parent"
+        android:layout_height           ="match_parent"/>-->
+
+</LinearLayout>

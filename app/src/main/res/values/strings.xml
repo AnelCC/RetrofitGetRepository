@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitExampleA</string>
+
+    <string name="btn_consulting">Consulting</string>
+    <string name="txt_into_repository">Introduce the repository:</string>
+    <string name="edt_type_here">Type here</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/anelelizabethcervantes/Desktop/RetrofitExampleA/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_a4540c18a3342c77c2e969976a0b0877970ddfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/anelelizabethcervantes/Desktop/RetrofitExampleA/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_6e74bdfed4a6878c39cd8a5aaba247e739ffc8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/anelelizabethcervantes/Desktop/RetrofitExampleA/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_3ea3c1fb8e493d233870bacf75d4ecf972567f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/anelelizabethcervantes/Desktop/RetrofitExampleA/app/build/intermediates/pre-dexed/debug/okio-1.8.0_346e8c5efe0bc354f196509d4e14c150182cf38d.jar" />
+    </item>
+
+</items>
