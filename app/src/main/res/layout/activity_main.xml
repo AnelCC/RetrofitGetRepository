@@ -28,9 +28,9 @@
         android:onClick                 ="getInfo"
         android:text                    ="@string/btn_consulting"/>
 
-    <!--<android.support.v7.widget.RecyclerView
+    <android.support.v7.widget.RecyclerView
         android:id                      ="@+id/a_main_recycler"
         android:layout_width            ="match_parent"
-        android:layout_height           ="match_parent"/>-->
+        android:layout_height           ="match_parent"/>
 
 </LinearLayout>
